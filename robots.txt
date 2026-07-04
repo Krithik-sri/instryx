@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://instryx.space/sitemap.xml
+Sitemap: https://instryx.app/sitemap.xml
